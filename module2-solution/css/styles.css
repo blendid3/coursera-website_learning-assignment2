@@ -38,7 +38,7 @@ h1 {
     text-align: center;
 }
 .Chicken-words {
-  border: 1px solid black;
+
   padding: 10px;
   clear: right;
   font-weight: bold;
@@ -60,7 +60,7 @@ h1 {
 }
 
 .Beef-words {
-  border: 1px solid black;
+
   padding: 10px;
   clear: right;
   font-weight: bold;
@@ -82,7 +82,7 @@ h1 {
 }
 
 .Sushi-words {
-  border: 1px solid black;
+
   padding: 10px;
   clear: right;
   font-weight: bold;
